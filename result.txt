@@ -1,0 +1,15 @@
+Nėra duomenų!
+Keleiviai:
++---------------+---------------+-------------------+--------------+--------------+
+|    Vardas     |    Pavardė    |  Savaitės diena   | Išvyk. laik. | Marštuto nr. |
++---------------+---------------+-------------------+--------------+--------------+
+|    Gedas      |  Gedaitis     |    antradienis    |   14:25:00   |      512     |
+|    Alfonsas   |  Alfonselis   |    pirmadienis    |   13:30:00   |      345     |
+|    Antanas    |  Antanaitis   |    penktadienis   |   12:00:00   |      453     |
+|    Petras     |  Petraitis    |    pirmadienis    |   13:30:00   |      345     |
+|    Jonaitis   |  Jonas        |    antradienis    |   06:55:00   |      512     |
++---------------+---------------+-------------------+--------------+--------------+
+
+Nėra duomenų!
+Pelningiausio maršruto pelnas: 0.00
+Nėra duomenų!

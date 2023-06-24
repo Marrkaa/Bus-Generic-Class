@@ -1,0 +1,6 @@
+﻿345; pirmadienis; 13:30:00; 2.0;
+125; trečiadienis; 14:45:00; 2.7;
+453; penktadienis; 12:00:00; 1.5;
+876; ketvirtadienis; 09:15:00; 3.3;
+512; antradienis; 06:55:00; 2.0;
+108; antradienis; 11:45:00; 0.6;

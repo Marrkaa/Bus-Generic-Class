@@ -1,0 +1,5 @@
+﻿Jonaitis; Jonas; antradienis; 06:55:00; 512;
+Petras; Petraitis; pirmadienis; 13:30:00; 345;
+Antanas; Antanaitis; penktadienis; 12:00:00; 453;
+Alfonsas; Alfonselis; pirmadienis; 13:30:00; 345;
+Gedas; Gedaitis; antradienis; 14:25:00; 512;
